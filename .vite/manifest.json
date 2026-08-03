@@ -1,4 +1,8 @@
 {
+  "_challengeEvidence-BL5vvbzn.js": {
+    "file": "assets/challengeEvidence-BL5vvbzn.js",
+    "name": "challengeEvidence"
+  },
   "_framework-DLP1zmWw.js": {
     "file": "assets/framework-DLP1zmWw.js",
     "name": "framework",
@@ -11,7 +15,7 @@
     "name": "rolldown-runtime"
   },
   "app/components/SiteShell.tsx": {
-    "file": "assets/SiteShell-M2pRBOfd.js",
+    "file": "assets/SiteShell-DlMKe-o1.js",
     "name": "SiteShell",
     "src": "app/components/SiteShell.tsx",
     "isDynamicEntry": true,
@@ -25,58 +29,62 @@
     ]
   },
   "app/console/page.tsx": {
-    "file": "assets/page-WchTbyWD.js",
+    "file": "assets/page-CH_tJbSH.js",
     "name": "page",
     "src": "app/console/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DLP1zmWw.js",
-      "app/components/SiteShell.tsx"
+      "app/components/SiteShell.tsx",
+      "_challengeEvidence-BL5vvbzn.js"
     ],
     "css": [
-      "assets/page-5pRYQiaw.css"
+      "assets/page-BuSYzbEe.css"
     ]
   },
   "app/page.tsx": {
-    "file": "assets/page-CeDdL6FK.js",
+    "file": "assets/page-YcufS2bB.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-DLP1zmWw.js",
-      "app/components/SiteShell.tsx"
+      "app/components/SiteShell.tsx",
+      "_challengeEvidence-BL5vvbzn.js"
     ]
   },
   "app/reproduce/page.tsx": {
-    "file": "assets/page-BYbUXbiW.js",
+    "file": "assets/page-DpRKmdfN.js",
     "name": "page",
     "src": "app/reproduce/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_framework-DLP1zmWw.js",
-      "app/components/SiteShell.tsx"
+      "app/components/SiteShell.tsx",
+      "_challengeEvidence-BL5vvbzn.js"
     ],
     "css": [
-      "assets/page-D8F6FkJb.css"
+      "assets/page-BLfFGQl8.css"
     ]
   },
   "app/results/page.tsx": {
-    "file": "assets/page-qy7azjZc.js",
+    "file": "assets/page-C_ldiGmR.js",
     "name": "page",
     "src": "app/results/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DLP1zmWw.js",
-      "app/components/SiteShell.tsx"
+      "app/components/SiteShell.tsx",
+      "_challengeEvidence-BL5vvbzn.js"
     ],
     "css": [
-      "assets/page-BynarhFw.css"
+      "assets/page-_XsQGWvk.css"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-Qvxl40z8.js",
+    "file": "assets/layout-segment-context-DMWwYQdQ.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -87,7 +95,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/router.js": {
-    "file": "assets/router-CbWt-5-F.js",
+    "file": "assets/router-pMQdD6xn.js",
     "name": "router",
     "src": "node_modules/vinext/dist/shims/router.js",
     "isDynamicEntry": true,
@@ -102,7 +110,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-27B4pY3e.js",
+    "file": "assets/index-BnfWAETk.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
